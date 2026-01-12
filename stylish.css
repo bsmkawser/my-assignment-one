@@ -1,3 +1,161 @@
 body{
-    color: aqua;
+    background-col
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    
+}
+nav img{
+margin: 16px 120px;
+
+
+}
+nav a{
+text-decoration: none;
+
+}
+nav li{
+    list-style: none;
+    margin: 16px;
+}
+nav button{
+margin: 16px 120px;
+padding: 10px;
+background-color: #30b868;
+color: aliceblue;
+max-width: 600px;
+}
+.banner{
+background-image: url:("hero-bg.png");
+text-align: center;
+border: 1px solid;
+margin: 40px 80px;
+
+
+}
+
+.early-btn{
+color: #30b868;
+border-width: 15px;
+border: 1px solid;
+
+}
+.banner h1{
+size: 51px;
+color: 
+}
+
+.brain{
+display: flex;
+width: 1600px;
+height: 840px;
+border: 1px solid;
+gap: 60px;
+}
+
+.knowledge{
+  height: 600px;
+  width: 600px;
+  margin-top: 120px;
+margin-bottom: 120px;
+margin-left: 120px;
+
+}
+.solution{
+    margin-top:200px ;
+    margin-bottom:120px ;
+    margin-right: 120px;
+}
+.solution h1{
+    font-weight: bold;
+}
+
+.solution li{
+    list-style: none;
+}
+
+.notes{
+text-align: center;
+
+}
+.notes h1 {
+font-weight: bold;
+font-size: 3em;
+}
+.notes p{
+    color: darkgrey;
+}
+.card{
+    width: 322px;
+    height: 300px;
+    border: 1px solid;
+    background-color: #ffffff;
+    justify-items: center;
+    margin: 10px 15px;
+    padding: 10px 10px;
+}
+.card img{
+    background-color: #f95555;
+    border-radius: 40px;
+    height: 60px;
+    width: 60px;
+    size: 3px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.card-style{
+display: flex;
+gap: 15px;
+
+}
+.ready{
+text-align: center;
+
+}
+.more{
+margin: 80px auto;
+background-color: #F7F6F2;
+}
+
+.more h1{
+font-size: 3em;
+
+}
+.more p{
+    color: #627382;
+}
+.more button{
+    padding: 9px;
+background-color: #30b868;
+color: #F7F6F2;
+}
+
+.footering{
+   display: flex;
+    background-color: seagreen;
+    justify-content: space-around;
+    width: 1600px;
+    height: 348px;
+    padding: 110px;
+ 
+}
+link{
+    width:1360px ;
+    height: 64px;
+    
+
+}
+.end img {
+/*padding: 120px 120px; */
+}
+.link{
+    padding-left: 100px;
+}
+.link p{
+justify-content: center;
+
 }
